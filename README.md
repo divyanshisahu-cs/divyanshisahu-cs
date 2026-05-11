@@ -1,6 +1,6 @@
 <!-- Animated Neon Header -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&pause=1000&color=F59E0B&center=true&vCenter=true&width=700&height=100&lines=Hi+there,+I'm+Divyanshi+Sahu+✨;Frontend+%26+Full+Stack+Developer;Building+Scalable+Web+Apps;MERN+Stack+%7C+AWS+%7C+Java" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&pause=1000&color=F59E0B&center=true&vCenter=true&width=700&height=100&lines=Hi+there,+I'm+Divyanshi+Sahu;Frontend+%26+Full+Stack+Developer;Building+Scalable+Web+Apps;MERN+Stack+%7C+AWS+%7C+Java" alt="Typing SVG" />
 </div>
 
 <div align="center">
